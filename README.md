@@ -1,2 +1,3 @@
 # cen4802
-hello-world
+Hello Class!
+My name is Mariele, I am excited for this semester.
